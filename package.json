@@ -1,0 +1,17 @@
+{
+	"name": "@avsssai/magic8ball",
+	"version": "1.0.0",
+	"description": "A Magic 8 ball package.",
+	"main": "index.js",
+	"repository": "avsssai/magic8Ball",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"magic8Ball",
+		"npm",
+		"package"
+	],
+	"author": "avsssai",
+	"license": "ISC"
+}
